@@ -1,0 +1,93 @@
+elemento,u1,u2,h1,h2,n1,n2,material,origen
+sillares_cuerpo_bajo,111.3,79.9,0.0,13.6,0.0,0.05,piedra,medido
+torre_n_base,111.3,103.0,17.5,19.6,0.0,0.05,piedra,medido
+torre_s_base,88.6,79.9,17.5,19.6,0.0,0.05,piedra,medido
+arquitrabe,111.3,79.9,13.6,14.1,0.0,0.3,piedra,medido (alto); vuelo [ESTIMADO]
+friso,111.3,79.9,14.1,15.6,0.0,0.4,piedra,medido (alto); vuelo [ESTIMADO]
+cornisa_principal,111.6,79.6,15.6,17.5,0.0,1.2,piedra,medido (alto); vuelo [ESTIMADO]
+balaustrada_base,101.9,89.1,17.5,17.8,0.0,0.5,piedra,medido
+balaustrada_barandal,101.9,89.1,18.8,19.1,0.0,0.5,piedra,medido
+balaustrada_pedestal_1,101.9,101.0,17.8,19.3,0.0,0.55,piedra,medido
+balaustrada_pedestal_2,99.1,98.1,17.8,19.3,0.0,0.55,piedra,medido
+balaustrada_pedestal_3,93.5,92.0,17.8,19.3,0.0,0.55,piedra,medido
+balaustrada_pedestal_4,90.0,89.1,17.8,19.3,0.0,0.55,piedra,medido
+balaustre_1,100.85,100.65,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_2,100.4,100.2,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_3,99.95,99.75,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_4,99.5,99.3,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_5,97.7,97.5,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_6,97.25,97.05,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_7,96.8,96.6,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_8,96.35,96.15,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_9,95.9,95.7,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_10,95.45,95.25,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_11,95.0,94.8,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_12,94.55,94.35,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_13,94.1,93.9,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_14,91.85,91.65,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_15,91.4,91.2,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_16,90.95,90.75,17.8,18.8,0.15,0.35,piedra,medido
+balaustre_17,90.5,90.3,17.8,18.8,0.15,0.35,piedra,medido
+columna_1_pedestal,103.05,101.45,0.0,0.9,0.0,1.6,piedra,medido; vuelo [ESTIMADO]
+columna_1,102.9,101.6,0.9,12.6,0.2,1.5,piedra,medido; separación del muro [ESTIMADO]
+columna_1_capitel,103.1,101.4,12.6,13.6,0.0,1.7,piedra,medido; vuelo [ESTIMADO]
+columna_2_pedestal,99.0,97.4,0.0,0.9,0.0,1.6,piedra,medido; vuelo [ESTIMADO]
+columna_2,98.85000000000001,97.55,0.9,12.6,0.2,1.5,piedra,medido; separación del muro [ESTIMADO]
+columna_2_capitel,99.05,97.35000000000001,12.6,13.6,0.0,1.7,piedra,medido; vuelo [ESTIMADO]
+columna_3_pedestal,93.55,91.95,0.0,0.9,0.0,1.6,piedra,medido; vuelo [ESTIMADO]
+columna_3,93.4,92.1,0.9,12.6,0.2,1.5,piedra,medido; separación del muro [ESTIMADO]
+columna_3_capitel,93.6,91.9,12.6,13.6,0.0,1.7,piedra,medido; vuelo [ESTIMADO]
+columna_4_pedestal,89.6,88.0,0.0,0.9,0.0,1.6,piedra,medido; vuelo [ESTIMADO]
+columna_4,89.45,88.14999999999999,0.9,12.6,0.2,1.5,piedra,medido; separación del muro [ESTIMADO]
+columna_4_capitel,89.64999999999999,87.95,12.6,13.6,0.0,1.7,piedra,medido; vuelo [ESTIMADO]
+pilastra_1,110.95,109.64999999999999,0.0,12.6,0.0,0.25,piedra,medido
+pilastra_1_capitel,111.1,109.5,12.6,13.6,0.0,0.4,piedra,medido
+pilastra_2,104.65,103.35,0.0,12.6,0.0,0.25,piedra,medido
+pilastra_2_capitel,104.8,103.2,12.6,13.6,0.0,0.4,piedra,medido
+pilastra_3,87.85000000000001,86.55,0.0,12.6,0.0,0.25,piedra,medido
+pilastra_3_capitel,88.0,86.4,12.6,13.6,0.0,0.4,piedra,medido
+pilastra_4,81.5,80.19999999999999,0.0,12.6,0.0,0.25,piedra,medido
+pilastra_4_capitel,81.64999999999999,80.05,12.6,13.6,0.0,0.4,piedra,medido
+arco_portada_marco,97.6,93.4,0.6,6.50,0.0,0.3,piedra,medido; arco de medio punto (foto 2022 y rectificada): h2 = arranque
+arco_portada_hueco,97.0,94.0,0.6,6.40,0.3,0.31,vidrio,medido; arco de medio punto (foto 2022 y rectificada): h2 = arranque
+escalinata,98.2,92.8,0.0,0.6,0.0,1.2,piedra,medido (alto); fondo [ESTIMADO]
+arco_hornacina_marco,97.1,93.8,9.8,11.15,0.0,0.2,piedra,medido; arco de medio punto (foto 2022 y rectificada): h2 = arranque
+arco_hornacina_hueco,96.9,94.0,10.0,11.15,0.2,0.21,vidrio,medido; arco de medio punto (foto 2022 y rectificada): h2 = arranque
+ventana_alta_izq_marco,101.3,99.2,9.7,12.0,0.0,0.12,piedra,medido
+ventana_alta_izq_hueco,101.0,99.5,10.0,11.7,0.12,0.13,vidrio,medido
+ventana_alta_izq_frontón,101.5,99.0,12.7,13.4,0.0,0.35,piedra,medido; frontón curvo segmental (foto 2022)
+balcón_izq,101.25,99.25,9.6,10.5,0.0,0.5,vidrio,medido; losa y rejería de barrotes (foto 2022)
+ventana_media_izq_hueco,101.0,99.5,6.6,8.5,0.05,0.06,vidrio,medido
+ventana_baja_izq_hueco,101.0,99.5,0.7,5.1,0.05,0.06,vidrio,medido
+ventana_alta_der_marco,91.89999999999999,89.9,9.7,12.0,0.0,0.12,piedra,medido
+ventana_alta_der_hueco,91.6,90.2,10.0,11.7,0.12,0.13,vidrio,medido
+ventana_alta_der_frontón,92.1,89.7,12.7,13.4,0.0,0.35,piedra,medido; frontón curvo segmental (foto 2022)
+balcón_der,91.85,89.95,9.6,10.5,0.0,0.5,vidrio,medido; losa y rejería de barrotes (foto 2022)
+ventana_media_der_hueco,91.6,90.2,6.6,8.5,0.05,0.06,vidrio,medido
+ventana_baja_der_hueco,91.6,90.2,0.7,5.1,0.05,0.06,vidrio,medido
+ventana_alta_torre_n_marco,107.89999999999999,105.9,9.7,12.0,0.0,0.12,piedra,medido
+ventana_alta_torre_n_hueco,107.6,106.2,10.0,11.7,0.12,0.13,vidrio,medido
+ventana_alta_torre_n_frontón,108.1,105.7,12.7,13.4,0.0,0.35,piedra,medido; frontón curvo segmental (foto 2022)
+balcón_torre_n,107.85,105.95,9.6,10.5,0.0,0.5,vidrio,medido; losa y rejería de barrotes (foto 2022)
+ventana_media_torre_n_hueco,107.6,106.2,6.6,8.5,0.05,0.06,vidrio,medido
+ventana_baja_torre_n_hueco,107.6,106.2,2.6,5.1,0.05,0.06,vidrio,medido
+ventana_alta_torre_s_marco,85.2,83.10000000000001,9.7,12.0,0.0,0.12,piedra,medido
+ventana_alta_torre_s_hueco,84.9,83.4,10.0,11.7,0.12,0.13,vidrio,medido
+ventana_alta_torre_s_frontón,85.4,82.9,12.7,13.4,0.0,0.35,piedra,medido; frontón curvo segmental (foto 2022)
+balcón_torre_s,85.15,83.15,9.6,10.5,0.0,0.5,vidrio,medido; losa y rejería de barrotes (foto 2022)
+ventana_media_torre_s_hueco,84.9,83.4,6.6,8.5,0.05,0.06,vidrio,medido
+ventana_baja_torre_s_hueco,84.9,83.4,2.6,5.1,0.05,0.06,vidrio,medido
+torre_n_cornisa_media,111.7,102.6,30.6,31.6,0.0,0.8,piedra,[ESTIMADO] cuerpo alto de la torre retranqueado; se coloca en el plano de fachada
+arco_torre_n_vano,107.9,106.1,23.6,26.10,0.0,0.05,vidrio,[ESTIMADO] cuerpo alto de la torre; arco de medio punto (foto 2022)
+torre_n_campanario,109.0,105.5,31.6,34.6,0.0,0.05,vidrio,[ESTIMADO] cuerpo alto de la torre retranqueado; se coloca en el plano de fachada
+torre_s_cornisa_media,89.0,79.5,30.6,31.6,0.0,0.8,piedra,[ESTIMADO] cuerpo alto de la torre retranqueado; se coloca en el plano de fachada
+arco_torre_s_vano,84.9,83.4,23.6,26.25,0.0,0.05,vidrio,[ESTIMADO] cuerpo alto de la torre; arco de medio punto (foto 2022)
+torre_s_campanario,86.0,82.80000000000001,31.6,34.6,0.0,0.05,vidrio,[ESTIMADO] cuerpo alto de la torre retranqueado; se coloca en el plano de fachada
+torre_n_vano_bajo,107.9,106.1,19.6,22.6,0.0,0.05,vidrio,[ESTIMADO] cuerpo alto de la torre retranqueado; se coloca en el plano de fachada
+oculo_torre_s,84.9,83.4,20.35,21.85,0.0,0.12,piedra,[ESTIMADO] cuerpo alto de la torre; anillo de piedra ciego (foto 2022)
+reja_baja_izq,101,99.5,0.7,5.1,0,0.04,metal,medido (hueco); reja de barrotes (foto 2022)
+reja_baja_der,91.6,90.2,0.7,5.1,0,0.04,metal,medido (hueco); reja de barrotes (foto 2022)
+reja_baja_torre_n,107.6,106.2,2.6,5.1,0,0.04,metal,medido (hueco); reja de barrotes (foto 2022)
+reja_baja_torre_s,84.9,83.4,2.6,5.1,0,0.04,metal,medido (hueco); reja de barrotes (foto 2022)
+mensulas_friso,111.3,79.9,14.25,15.45,0.4,0.62,piedra,[ESTIMADO] ménsulas cada ~1 m contadas sobre la rectificada (foto 2022); tamaño estimado
+mensulas_cornisa,111.6,79.6,15.75,16.45,0.3,1,piedra,[ESTIMADO] ménsulas cada ~1 m contadas sobre la rectificada (foto 2022); tamaño estimado

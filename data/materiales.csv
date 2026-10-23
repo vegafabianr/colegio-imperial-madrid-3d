@@ -1,0 +1,15 @@
+material,r,g,b,patron,lectura_street_view,origen_color
+granito,152,152,147,sillares (hilada 0.46 m; bloque 1.0 m) o liso,"zócalo del instituto de sillares en hiladas regulares hasta la imposta; marcos, impostas, cornisas y portadas de granito; cuerpo bajo y orden gigante de la Colegiata de granito","mediana de la Colegiata (foto 2022, 151/145/138) y del instituto (Instituto 01 var, 113/119/117), promediadas y ×1,15; hilada: autocorrelación vertical en la foto rectificada del instituto (0,46 m); bloque 1,0 m [ESTIMADO]"
+revoco_instituto,232,211,200,revoco liso con manchas suaves,revoco liso claro en los pisos altos del instituto (Toledo y Estudios),"mediana de Instituto 01 var (211/192/182) ×1,1"
+revoco_colegiata,204,166,138,revoco liso con manchas suaves,revoco ocre en los muros de la calle de la Colegiata; zócalo de granito,"media de tres zonas de Colegiata 15 (hastial 180/164/153, nave 163/130/99, cuerpo este 145/105/78) ×1,25"
+revoco_blanco,215,214,215,revoco liso,paños blancos entre pilastras de granito en los cuerpos altos de las torres y el tambor de la cúpula,"mediana de los paños de las torres en la foto de la Colegiata 2022 (213/213/216 y 217/216/215)"
+teja,138,101,76,teja árabe (canales cada 0.25 m; solape cada 0.40 m),teja árabe en el instituto y en la Colegiata salvo torres y cúpula,"mediana de la ortofoto 2023 sobre las cubiertas de teja del conjunto (≈120/88/66) ×1,15; tamaños de teja [ESTIMADO]"
+pizarra,72,76,84,escamas (hilada 0.15 m; ancho 0.25 m),pizarra en los chapiteles de las torres y en la cúpula,"ortofoto 2023 sobre torres (62/63/69 y 73/75/76) y chapitel de Colegiata 15 (60/68/88); tamaños [ESTIMADO]"
+cubierta_gris,150,147,143,liso con manchas,cubiertas grises (zinc o planas) dentro del conjunto,"ortofoto 2023: partes de la Colegiata con R−B < 20 (p. ej. 142/142/137, 117/106/98) ×1,15"
+madera,66,61,54,carpintería de ventanas y puertas,"carpinterías de madera oscura, con vidrio","puerta del instituto en la foto rectificada (41/38/34) ×1,6"
+vidrio,40,45,50,vidrio,vidrio,"huecos del instituto en la foto rectificada (≈60/65/66), oscurecido [ESTIMADO]"
+hierro,30,30,32,liso,"rejas, cruces y balcones de hierro negro",[ESTIMADO]
+sombra,45,42,40,liso,interior en sombra de arcos y hornacinas,[ESTIMADO]
+contexto_muro,190,190,190,liso,(fuera del conjunto: gris neutro por decisión del usuario),—
+contexto_cubierta,165,165,165,liso,(fuera del conjunto: gris neutro por decisión del usuario),—
+terreno,140,140,140,liso,(gris neutro por decisión del usuario),—

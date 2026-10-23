@@ -1,0 +1,122 @@
+elemento,u1,u2,h1,h2,n1,n2,material,origen
+ventana_A_c1_marco,77.1,75.3,13.3,15.3,0.0,0.08,piedra,medido
+ventana_A_c1_hueco,76.85,75.55,13.55,15.05,0.08,0.09,vidrio,medido
+ventana_A_c2_marco,72.6,70.8,13.3,15.3,0.0,0.08,piedra,medido
+ventana_A_c2_hueco,72.35,71.05,13.55,15.05,0.08,0.09,vidrio,medido
+ventana_A_c3_marco,68.5,66.7,13.3,15.3,0.0,0.08,piedra,medido
+ventana_A_c3_hueco,68.25,66.95,13.55,15.05,0.08,0.09,vidrio,medido
+ventana_A_c4_marco,64.7,62.9,13.3,15.3,0.0,0.08,piedra,medido
+ventana_A_c4_hueco,64.45,63.15,13.55,15.05,0.08,0.09,vidrio,medido
+ventana_A_c5_marco,60.8,59.0,13.3,15.3,0.0,0.08,piedra,medido
+ventana_A_c5_hueco,60.55,59.25,13.55,15.05,0.08,0.09,vidrio,medido
+ventana_A_c6_marco,56.95,55.15,13.3,15.3,0.0,0.08,piedra,medido
+ventana_A_c6_hueco,56.7,55.4,13.55,15.05,0.08,0.09,vidrio,medido
+ventana_A_c7_marco,53.1,51.3,13.3,15.3,0.0,0.08,piedra,medido
+ventana_A_c7_hueco,52.85,51.55,13.55,15.05,0.08,0.09,vidrio,medido
+ventana_A_c8_marco,49.2,47.4,13.3,15.3,0.0,0.08,piedra,medido
+ventana_A_c8_hueco,48.95,47.65,13.55,15.05,0.08,0.09,vidrio,medido
+ventana_A_c9_marco,45.5,43.7,13.3,15.3,0.0,0.08,piedra,medido
+ventana_A_c9_hueco,45.25,43.95,13.55,15.05,0.08,0.09,vidrio,medido
+ventana_B_c1_marco,77.1,75.3,10.45,12.55,0.0,0.08,piedra,medido
+ventana_B_c1_hueco,76.85,75.55,10.7,12.3,0.08,0.09,vidrio,medido
+ventana_B_c2_marco,72.6,70.8,10.45,12.55,0.0,0.08,piedra,medido
+ventana_B_c2_hueco,72.35,71.05,10.7,12.3,0.08,0.09,vidrio,medido
+ventana_B_c3_marco,68.5,66.7,10.45,12.55,0.0,0.08,piedra,medido
+ventana_B_c3_hueco,68.25,66.95,10.7,12.3,0.08,0.09,vidrio,medido
+ventana_B_c4_marco,64.7,62.9,10.45,12.55,0.0,0.08,piedra,medido
+ventana_B_c4_hueco,64.45,63.15,10.7,12.3,0.08,0.09,vidrio,medido
+ventana_B_c5_marco,60.8,59.0,10.45,12.55,0.0,0.08,piedra,medido
+ventana_B_c5_hueco,60.55,59.25,10.7,12.3,0.08,0.09,vidrio,medido
+ventana_B_c6_marco,56.95,55.15,10.45,12.55,0.0,0.08,piedra,medido
+ventana_B_c6_hueco,56.7,55.4,10.7,12.3,0.08,0.09,vidrio,medido
+ventana_B_c7_marco,53.1,51.3,10.45,12.55,0.0,0.08,piedra,medido
+ventana_B_c7_hueco,52.85,51.55,10.7,12.3,0.08,0.09,vidrio,medido
+ventana_B_c8_marco,49.2,47.4,10.45,12.55,0.0,0.08,piedra,medido
+ventana_B_c8_hueco,48.95,47.65,10.7,12.3,0.08,0.09,vidrio,medido
+ventana_B_c9_marco,45.5,43.7,10.45,12.55,0.0,0.08,piedra,medido
+ventana_B_c9_hueco,45.25,43.95,10.7,12.3,0.08,0.09,vidrio,medido
+ventana_C_c1_marco,77.15,75.25,5.9,8.4,0.0,0.08,piedra,[ESTIMADO] tapada; se supone igual a la fila
+ventana_C_c1_hueco,76.85,75.55,6.2,8.1,0.08,0.09,vidrio,[ESTIMADO] tapada; se supone igual a la fila
+ventana_C_c3_marco,68.55,66.65,5.9,8.4,0.0,0.08,piedra,medido
+ventana_C_c3_hueco,68.25,66.95,6.2,8.1,0.08,0.09,vidrio,medido
+ventana_C_c4_marco,64.75,62.85,5.9,8.4,0.0,0.08,piedra,medido
+ventana_C_c4_hueco,64.45,63.15,6.2,8.1,0.08,0.09,vidrio,medido
+ventana_C_c5_marco,60.85,58.95,5.9,8.4,0.0,0.08,piedra,medido
+ventana_C_c5_hueco,60.55,59.25,6.2,8.1,0.08,0.09,vidrio,medido
+ventana_C_c6_marco,57.0,55.1,5.9,8.4,0.0,0.08,piedra,medido
+ventana_C_c6_hueco,56.7,55.4,6.2,8.1,0.08,0.09,vidrio,medido
+ventana_C_c7_marco,53.15,51.25,5.9,8.4,0.0,0.08,piedra,medido
+ventana_C_c7_hueco,52.85,51.55,6.2,8.1,0.08,0.09,vidrio,medido
+ventana_C_c9_marco,45.55,43.65,5.9,8.4,0.0,0.08,piedra,[ESTIMADO] tapada; se supone igual a la fila
+ventana_C_c9_hueco,45.25,43.95,6.2,8.1,0.08,0.09,vidrio,[ESTIMADO] tapada; se supone igual a la fila
+ventana_D_c3_marco,68.3,66.9,2.45,4.75,0.0,0.08,piedra,medido
+ventana_D_c3_hueco,68.15,67.05,2.6,4.6,0.08,0.09,vidrio,medido
+ventana_D_c4_marco,64.5,63.1,2.45,4.75,0.0,0.08,piedra,[ESTIMADO] tapada; se supone igual a la fila
+ventana_D_c4_hueco,64.35,63.25,2.6,4.6,0.08,0.09,vidrio,[ESTIMADO] tapada; se supone igual a la fila
+ventana_D_c5_marco,60.6,59.2,2.45,4.75,0.0,0.08,piedra,[ESTIMADO] tapada; se supone igual a la fila
+ventana_D_c5_hueco,60.45,59.35,2.6,4.6,0.08,0.09,vidrio,[ESTIMADO] tapada; se supone igual a la fila
+ventana_D_c6_marco,56.75,55.35,2.45,4.75,0.0,0.08,piedra,medido
+ventana_D_c6_hueco,56.6,55.5,2.6,4.6,0.08,0.09,vidrio,medido
+ventana_D_c7_marco,52.9,51.5,2.45,4.75,0.0,0.08,piedra,medido
+ventana_D_c7_hueco,52.75,51.65,2.6,4.6,0.08,0.09,vidrio,medido
+ventana_D_c9_marco,45.3,43.9,2.45,4.75,0.0,0.08,piedra,[ESTIMADO] tapada; se supone igual a la fila
+ventana_D_c9_hueco,45.15,44.05,2.6,4.6,0.08,0.09,vidrio,[ESTIMADO] tapada; se supone igual a la fila
+ventana_E_c4_marco,64.27,63.32,0.5,1.2,0.0,0.08,piedra,medido
+ventana_E_c4_hueco,64.17,63.42,0.6,1.1,0.08,0.09,vidrio,medido
+ventana_E_c6_marco,56.52,55.57,0.5,1.2,0.0,0.08,piedra,medido
+ventana_E_c6_hueco,56.42,55.67,0.6,1.1,0.08,0.09,vidrio,medido
+cornisa,79.9,40.9,15.6,16.6,0.0,0.6,piedra,"medido (alto); vuelo 0,6 m [ESTIMADO]"
+imposta,79.9,40.9,12.75,13.1,0.0,0.12,piedra,medido (alto); vuelo [ESTIMADO]
+zocalo_moldura,79.9,40.9,5.3,5.65,0.0,0.2,piedra,medido (alto); vuelo [ESTIMADO]
+zocalo_sillares,79.9,40.9,0,1.5,0,0.1,piedra,"[ESTIMADO] leído en la foto 01 (Commons): basa de sillares grandes hasta ~1,5 m con moldura, almohadillado corrido encima hasta la moldura medida a 5,3 m"
+zocalo_basa_moldura,79.9,40.9,1.5,1.7,0,0.16,piedra,"[ESTIMADO] leído en la foto 01 (Commons): basa de sillares grandes hasta ~1,5 m con moldura, almohadillado corrido encima hasta la moldura medida a 5,3 m"
+almohadillado_zocalo,79.9,40.9,1.7,5.3,0,0.06,piedra,"[ESTIMADO] leído en la foto 01 (Commons): basa de sillares grandes hasta ~1,5 m con moldura, almohadillado corrido encima hasta la moldura medida a 5,3 m"
+reja_E_c4,64.17,63.42,0.6,1.1,0.1,0.13,metal,[ESTIMADO] reja de los ventanucos del sótano (foto 01)
+reja_E_c6,56.42,55.67,0.6,1.1,0.1,0.13,metal,[ESTIMADO] reja de los ventanucos del sótano (foto 01)
+portada1_basa_izq,74,73.15,0,0.8,0,0.42,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_pilastra_izq,73.95,73.2,0.8,4.4,0,0.32,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_pilastra_izq_filete_a,73.32,73.2,0.8,4.4,0.32,0.38,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_pilastra_izq_filete_b,73.95,73.83,0.8,4.4,0.32,0.38,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_capitel_izq,74,73.15,4.4,4.85,0,0.45,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_dado_izq,74,73.15,5.65,6.35,0,0.32,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_banda_izq,73.15,72.85,5.65,8.3,0.12,0.25,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_basa_der,70.25,69.4,0,0.8,0,0.42,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_pilastra_der,70.2,69.45,0.8,4.4,0,0.32,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_pilastra_der_filete_a,70.2,70.08,0.8,4.4,0.32,0.38,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_pilastra_der_filete_b,69.57,69.45,0.8,4.4,0.32,0.38,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_capitel_der,70.25,69.4,4.4,4.85,0,0.45,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_dado_der,70.25,69.4,5.65,6.35,0,0.32,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_banda_der,70.55,70.25,5.65,8.3,0.12,0.25,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_friso,73.15,70.25,3.95,4.85,0,0.22,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_puerta,72.75,70.65,0,3.6,0.22,0.23,vidrio,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_cornisa_baja,74.15,69.25,4.85,5.65,0,0.6,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_cuerpo_alto,73.15,70.25,5.65,8.3,0,0.12,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_ventana,72.3,71.1,6.2,8.1,0.3,0.31,vidrio,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_cornisa_alta,73.45,69.95,8.3,8.7,0,0.5,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada1_fronton,73.9,69.1,8.7,9.7,0,0.5,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada; frontón curvo segmental"
+remate_bola_portada1_izq,73.8,73.4,8.95,9.85,0.05,0.45,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+remate_bola_portada1_der,69.6,69.2,8.95,9.85,0.05,0.45,piedra,"[ESTIMADO] forma leída en la foto 01 (Commons, portada 1); anchos y alturas totales medidos en la rectificada"
+portada2_basa_izq,50,49.15,0,0.8,0,0.42,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_pilastra_izq,49.95,49.2,0.8,4.4,0,0.32,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_pilastra_izq_filete_a,49.32,49.2,0.8,4.4,0.32,0.38,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_pilastra_izq_filete_b,49.95,49.83,0.8,4.4,0.32,0.38,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_capitel_izq,50,49.15,4.4,4.85,0,0.45,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_dado_izq,50,49.15,5.65,6.35,0,0.32,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_banda_izq,49.15,48.85,5.65,8.4,0.12,0.25,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_basa_der,46.35,45.5,0,0.8,0,0.42,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_pilastra_der,46.3,45.55,0.8,4.4,0,0.32,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_pilastra_der_filete_a,46.3,46.18,0.8,4.4,0.32,0.38,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_pilastra_der_filete_b,45.67,45.55,0.8,4.4,0.32,0.38,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_capitel_der,46.35,45.5,4.4,4.85,0,0.45,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_dado_der,46.35,45.5,5.65,6.35,0,0.32,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_banda_der,46.65,46.35,5.65,8.4,0.12,0.25,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_friso,49.15,46.35,3.95,4.85,0,0.22,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_puerta,48.8,46.7,0,3.6,0.22,0.23,vidrio,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_cornisa_baja,50.15,45.35,4.85,5.65,0,0.6,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_cuerpo_alto,49.15,46.35,5.65,8.4,0,0.12,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_ventana,48.35,47.15,6.3,8.2,0.3,0.31,vidrio,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_cornisa_alta,49.45,46.05,8.4,8.8,0,0.5,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+portada2_fronton,50.2,45.3,8.8,9.7,0,0.5,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos; frontón curvo segmental"
+remate_bola_portada2_izq,50.1,49.7,9.05,9.95,0.05,0.45,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+remate_bola_portada2_der,45.8,45.4,9.05,9.95,0.05,0.45,piedra,"[ESTIMADO] como la portada 1 (parte baja tapada por un árbol); ancho, alto y frontón medidos"
+escudo_mensula,70,69.1,5.65,6.35,0,0.35,piedra,[ESTIMADO] ménsula bajo el escudo (foto Commons 'Colegio Imperial - Escudo')

@@ -1,0 +1,24 @@
+elemento,u1,u2,h1,h2,n1,n2,material,origen
+zocalo_norte_u0,7,0,0.0,1.03,0.0,0.08,piedra,"[ESTIMADO] zócalo de granito de 0,9 m siguiendo la acera (nube)"
+zocalo_norte_u7,15,7,0.13,1.24,0.0,0.08,piedra,"[ESTIMADO] zócalo de granito de 0,9 m siguiendo la acera (nube)"
+zocalo_norte_u15,23,15,0.34,1.42,0.0,0.08,piedra,"[ESTIMADO] zócalo de granito de 0,9 m siguiendo la acera (nube)"
+zocalo_norte_u23,31,23,0.52,1.69,0.0,0.08,piedra,"[ESTIMADO] zócalo de granito de 0,9 m siguiendo la acera (nube)"
+zocalo_norte_u31,39,31,0.79,1.99,0.0,0.08,piedra,"[ESTIMADO] zócalo de granito de 0,9 m siguiendo la acera (nube)"
+zocalo_norte_u39,47,39,1.09,2.27,0.0,0.08,piedra,"[ESTIMADO] zócalo de granito de 0,9 m siguiendo la acera (nube)"
+zocalo_norte_u47,55,47,1.37,2.59,0.0,0.08,piedra,"[ESTIMADO] zócalo de granito de 0,9 m siguiendo la acera (nube)"
+zocalo_norte_u55,63,55,1.69,2.81,0.0,0.08,piedra,"[ESTIMADO] zócalo de granito de 0,9 m siguiendo la acera (nube)"
+zocalo_norte_u63,72.3,63,1.91,3.52,0.0,0.08,piedra,"[ESTIMADO] zócalo de granito de 0,9 m siguiendo la acera (nube)"
+cornisa_cuerpo_bajo,25.0,0.0,7.9,8.5,0.0,0.3,piedra,[ESTIMADO] altura del alero de la nube; canto y vuelo supuestos
+cornisa_nave,37.0,25.0,13.4,14.0,0.0,0.3,piedra,[ESTIMADO] altura del alero de la nube; canto y vuelo supuestos
+cornisa_cuerpo_este,72.3,41.0,15.5,16.1,0.0,0.3,piedra,[ESTIMADO] altura del alero de la nube; canto y vuelo supuestos
+mirador_cuerpo,13.6,3.5,3.5,6.3,0.0,0.9,conjunto,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m
+mirador_tejado,13.8,3.3,6.3,7.1,0.0,1.0,pizarra,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m
+mirador_reja,8.65,6.55,3.5,6.6,0.9,0.95,metal,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m
+mirador_reja_tejado,8.85,6.35,6.6,7.3,0.0,1.05,pizarra,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m
+mirador_cornisa_cuerpo,13.6,3.5,7.7,8.0,0.0,0.2,piedra,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m
+ventana_baja_este_hueco,13.1,12.3,2.3,3.4,0.05,0.06,vidrio,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m
+ventana_baja_oeste_hueco,4.9,4.4,2.6,3.4,0.05,0.06,vidrio,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m
+ventana_oeste_media_hueco,3.3,2.75,4.2,5.1,0.05,0.06,vidrio,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m
+ventana_oeste_alta_hueco,3.3,2.75,6.1,7.0,0.05,0.06,vidrio,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m
+respiradero_sotano,8.5,7.2,0.5,1.4,0.08,0.09,vidrio,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m
+verja_oeste,2.2,0.2,0.0,3.2,0.0,0.05,metal,[ESTIMADO] foto del Balcón escalada con zócalo y bolardos (~150 px/m); posición en u ±2 m

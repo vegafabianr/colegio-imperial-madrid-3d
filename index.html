@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Colegio Imperial 3D</title>
+<meta name="description" content="Modelo 3D del antiguo Colegio Imperial de Madrid (Instituto San Isidro y Real Colegiata de San Isidro) tal como está hoy, hecho con datos abiertos.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<script type="module" src="https://cdn.jsdelivr.net/npm/@google/model-viewer@3.5.0/dist/model-viewer.min.js"></script>
+<style>
+  :root {
+    --fondo: #fbfaf7;
+    --tinta: #1d1b18;
+    --tenue: #66615a;
+    --linea: #d9d4cb;
+    --enlace: #8a3c1e;
+    --visor: #ecebe8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --fondo: #171716;
+      --tinta: #e9e5de;
+      --tenue: #a19b92;
+      --linea: #3a3936;
+      --enlace: #e09a72;
+      --visor: #252523;
+    }
+  }
+  :root[data-theme="dark"] {
+    --fondo: #171716;
+    --tinta: #e9e5de;
+    --tenue: #a19b92;
+    --linea: #3a3936;
+    --enlace: #e09a72;
+    --visor: #252523;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--fondo);
+    color: var(--tinta);
+    font: 19px/1.55 "EB Garamond", Georgia, serif;
+  }
+  .texto { max-width: 680px; margin: 0 auto; padding: 0 16px; }
+  .ancho { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
+  h1 { font-weight: 500; font-size: clamp(32px, 5vw, 44px); line-height: 1.1; margin: 48px 0 12px; }
+  h2 { font-weight: 500; font-size: 26px; margin: 48px 0 8px; }
+  p { margin: 0 0 14px; }
+  a { color: var(--enlace); }
+  .nota { color: var(--tenue); font-size: 16px; }
+
+  model-viewer {
+    display: block; width: 100%; height: min(70vh, 660px);
+    background: var(--visor); margin-top: 28px;
+    --progress-bar-color: var(--enlace);
+  }
+  .vistas { margin: 10px 0 0; font-size: 16px; color: var(--tenue); }
+  .vistas button {
+    font: inherit; color: var(--enlace); background: none; border: 0;
+    padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 3px;
+  }
+  .vistas button[aria-pressed="true"] { color: var(--tinta); text-decoration: none; }
+
+  ol { padding-left: 22px; margin: 0 0 14px; }
+  ol li { margin-bottom: 10px; }
+  ul { padding-left: 22px; margin: 0 0 14px; }
+  ul li { margin-bottom: 6px; }
+
+  .galeria { display: grid; gap: 24px 16px; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); margin-top: 16px; }
+  .galeria figure { margin: 0; }
+  .galeria img { width: 100%; height: auto; display: block; }
+  .galeria figcaption { font-size: 16px; color: var(--tenue); margin-top: 4px; font-style: italic; }
+
+  footer { margin-top: 56px; padding: 20px 16px 48px; border-top: 1px solid var(--linea); font-size: 16px; color: var(--tenue); }
+</style>
+</head>
+<body>
+
+<header class="texto">
+  <h1>El Colegio Imperial de Madrid en 3D</h1>
+  <p>Modelo del antiguo Colegio Imperial de la Compañía de Jesús, hoy Instituto San Isidro y Real Colegiata de San Isidro (calle de Toledo 37–39), tal como está hoy. Está hecho solo con datos abiertos: el Catastro, la nube de puntos y la ortofoto del Ayuntamiento de Madrid y fotos con licencia libre.</p>
+  <p class="nota">Versión preliminar 0.1, octubre de 2026.</p>
+</header>
+
+<main>
+  <div class="ancho">
+    <model-viewer id="visor"
+      src="blender/colegio_imperial_lod3.glb"
+      poster="renders/vista_general_materiales.jpg"
+      alt="Modelo 3D del Colegio Imperial de Madrid"
+      camera-controls
+      disable-zoom
+      interaction-prompt="none"
+      shadow-intensity="0.8"
+      exposure="1.05"
+      environment-image="neutral"
+      camera-orbit="-60deg 55deg 210m"
+      camera-target="15m 15m -105m"
+      min-camera-orbit="auto 5deg 20m"
+      max-camera-orbit="auto 88deg 450m"
+      interpolation-decay="120">
+    </model-viewer>
+    <p class="vistas">
+      Ir a:
+      <button type="button" data-orbita="-60deg 55deg 210m" data-blanco="15m 15m -105m" aria-pressed="true">vista general</button>,
+      <button type="button" data-orbita="-90deg 82deg 150m" data-blanco="-20m 14m -100m">fachada a Toledo</button>,
+      <button type="button" data-orbita="-70deg 68deg 95m" data-blanco="10m 32m -135m">torres y cúpula</button>,
+      <button type="button" data-orbita="-90deg 22deg 55m" data-blanco="3.5m 6m -98.5m">claustro</button>,
+      <button type="button" data-orbita="0deg 8deg 300m" data-blanco="20m 12m -100m">planta</button>.
+      Arrastrar para girar; clic en el modelo y rueda (o pellizco) para acercar; clic derecho o dos dedos para desplazar. El modelo pesa unos 9 MB.
+    </p>
+  </div>
+
+  <div class="texto">
+    <h2>Cómo se hizo</h2>
+    <ol>
+      <li>La planta sale del Catastro: la huella de cada parte del edificio, en coordenadas reales (ETRS89 / UTM 30N).</li>
+      <li>Las alturas salen de la nube de puntos de 2023 del Ayuntamiento (unos 100 puntos por m²). Con ella se ajustan las cubiertas crujía por crujía: plana, a un agua o a dos aguas.</li>
+      <li>Para las torres y la cúpula se cortó la nube cada medio metro de altura y se midió el contorno en cada corte. Así salen el tambor, el casquete, la linterna y los campanarios.</li>
+      <li>Las fachadas se midieron sobre fotos de Wikimedia Commons y Mapillary, enderezadas y puestas a escala: ventanas, impostas, cornisas y portadas.</li>
+      <li>Los colores se tomaron de esas fotos y de la ortofoto. Al final, un control automático compara el modelo con la nube de puntos y con la malla 3D del Ayuntamiento, y señala lo que falta o sobra.</li>
+    </ol>
+    <p>Todo el proceso está en cuadernos de Python y scripts de Blender, en el <a href="https://github.com/vegafabianr/colegio-imperial-madrid-3d">repositorio</a>, y se puede volver a correr de principio a fin.</p>
+
+    <h2>Precisión y límites</h2>
+    <p>Comparadas con la capa municipal de alturas de edificios, las cubiertas del conjunto se apartan 0,44 m en la mediana, y el 81 % de los cuerpos queda dentro de ±1 m.</p>
+    <ul>
+      <li>Es el estado actual, no una reconstrucción histórica. No hay interiores.</li>
+      <li>La fachada a Toledo está medida sobre fotos. En las calles de los Estudios, de la Colegiata y del Duque de Alba, y en los patios, las alturas están medidas pero los huecos son estimados: repiten el ritmo de las fachadas con foto.</li>
+      <li>Los edificios vecinos van en gris, como volúmenes simples.</li>
+      <li>Los remates finos (cruces, agujas, molduras pequeñas) están simplificados.</li>
+    </ul>
+  </div>
+
+  <div class="ancho">
+    <h2>Vistas</h2>
+    <div class="galeria">
+      <figure><img src="renders/vista_toledo_materiales.jpg" alt="Fachada a la calle de Toledo" loading="lazy"><figcaption>Calle de Toledo: Colegiata e Instituto.</figcaption></figure>
+      <figure><img src="renders/vista_cupula_torres.jpg" alt="Torres y cúpula de la Colegiata" loading="lazy"><figcaption>Torres y cúpula de la Colegiata.</figcaption></figure>
+      <figure><img src="renders/detalle_portada_instituto.jpg" alt="Portada del Instituto San Isidro" loading="lazy"><figcaption>Portada del Instituto.</figcaption></figure>
+      <figure><img src="renders/detalle_claustro.jpg" alt="Claustro del Instituto" loading="lazy"><figcaption>Claustro.</figcaption></figure>
+      <figure><img src="renders/detalle_colegiata.jpg" alt="Fachada de la Colegiata" loading="lazy"><figcaption>Fachada de la Colegiata.</figcaption></figure>
+      <figure><img src="renders/vista_aerea_materiales.jpg" alt="Vista aérea del conjunto" loading="lazy"><figcaption>Vista aérea del conjunto.</figcaption></figure>
+    </div>
+  </div>
+
+  <div class="texto">
+    <h2>Datos</h2>
+    <p>El modelo se puede descargar en <a href="blender/colegio_imperial_lod3.glb">glTF (.glb)</a> o como <a href="blender/colegio_imperial_lod3.blend">archivo de Blender</a>. Cada fuente, con su licencia y lo que aporta, está en <a href="https://github.com/vegafabianr/colegio-imperial-madrid-3d/blob/main/sources/SOURCES.md">la lista de fuentes</a>.</p>
+  </div>
+</main>
+
+<footer>
+  <div class="texto" style="padding:0">
+    <p>Vega, Fabián R. (2026). <i>El Colegio Imperial de Madrid en 3D</i> [modelo 3D, versión preliminar 0.1]. GitHub. https://github.com/vegafabianr/colegio-imperial-madrid-3d</p>
+    <p>Código: MIT. Modelo e imágenes: CC BY 4.0. Datos de base: Dirección General del Catastro; Ayuntamiento de Madrid (nube de puntos 2023, ortofoto 2023, alturas de edificios). Fotos de Wikimedia Commons y Mapillary bajo sus licencias.</p>
+  </div>
+</footer>
+
+<script>
+  // Preset views: each button moves the camera to its orbit ("theta phi radius") and target ("x y z"):
+  const visor = document.getElementById("visor");
+  const botones = document.querySelectorAll(".vistas button");
+  for (const boton of botones) {
+    boton.addEventListener("click", () => {
+      visor.cameraOrbit = boton.dataset.orbita;
+      visor.cameraTarget = boton.dataset.blanco;
+      for (const otro of botones) otro.setAttribute("aria-pressed", otro === boton ? "true" : "false");
+    });
+  }
+
+  // Wheel zoom only after clicking the model, so that scrolling the page does not get caught by the viewer:
+  visor.addEventListener("pointerdown", () => { visor.disableZoom = false; });
+  visor.addEventListener("pointerleave", () => { visor.disableZoom = true; });
+</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+control,objeto,valor,umbral,estado
+archivo al día,blender/colegio_imperial_lod3.blend,2.39,más nuevo que data/colegio_imperial_meshes.json,OK
+archivo al día,blender/colegio_imperial_lod3.glb,9.24,más nuevo que data/colegio_imperial_meshes.json,OK
+materiales,conjunto,0,0 piezas sin material,OK
+grilla sobrante,conjunto,0,0 partes,OK
+cubierta contra nube,0139402VK4703G_part1,82% dentro de ±0.5 m; mediana -0.02 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part2,75% dentro de ±0.5 m; mediana -0.07 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part3,90% dentro de ±0.5 m; mediana -0.02 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part4,86% dentro de ±0.5 m; mediana -0.10 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part5,82% dentro de ±0.5 m; mediana -0.09 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part6,95% dentro de ±1.0 m; mediana -0.01 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part7,100% dentro de ±0.5 m; mediana -0.04 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part8,95% dentro de ±0.5 m; mediana -0.04 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part9,97% dentro de ±1.0 m; mediana -0.31 m,≥ 70%; |mediana| ≤ 0.3 m,AVISO
+cubierta contra nube,0139402VK4703G_part10,98% dentro de ±0.5 m; mediana -0.07 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part11,55% dentro de ±0.5 m; mediana -0.25 m,≥ 70%; |mediana| ≤ 0.3 m,AVISO
+cubierta contra nube,0139402VK4703G_part12,95% dentro de ±1.0 m; mediana -0.05 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part13,100% dentro de ±0.5 m; mediana -0.07 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139402VK4703G_part15,97% dentro de ±0.5 m; mediana -0.09 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139423VK4703G_part1,93% dentro de ±0.5 m; mediana -0.08 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139423VK4703G_part2,100% dentro de ±0.5 m; mediana -0.04 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139424VK4703G_part1,90% dentro de ±0.5 m; mediana -0.08 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139424VK4703G_part2,100% dentro de ±0.5 m; mediana -0.07 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139424VK4703G_part3,90% dentro de ±0.5 m; mediana -0.07 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139424VK4703G_part4,80% dentro de ±0.5 m; mediana -0.06 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+cubierta contra nube,0139424VK4703G_part5,98% dentro de ±0.5 m; mediana +0.02 m,≥ 70%; |mediana| ≤ 0.3 m,OK
+fachada ciega,conjunto,0,muros > 50 m2 con huecos,OK
+huecos con derrame,conjunto,366 de 366,todos con muro detrás,OK
+volumen abstracto,tablas,0,0 filas simplificadas a caja,OK
