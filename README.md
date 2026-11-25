@@ -4,7 +4,7 @@ Modelo 3D del antiguo Colegio Imperial de la Compañía de Jesús de Madrid, hoy
 
 *3D model of the former Colegio Imperial (Jesuit college) in Madrid as it stands today, built only from open data. The site and the notes are in Spanish; code comments are in English.*
 
-**Ver el modelo:** https://vegafabianr.github.io/colegio-imperial-madrid-3d/
+**[Ver el modelo en 3D →](https://vegafabianr.github.io/colegio-imperial-madrid-3d/)**
 
 Versión preliminar (0.1, octubre de 2026).
 
